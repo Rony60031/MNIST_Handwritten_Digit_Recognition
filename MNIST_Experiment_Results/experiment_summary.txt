@@ -1,0 +1,10 @@
+MNIST HANDWRITTEN DIGIT RECOGNITION - EXPERIMENT RESULTS
+Device: cpu
+Training samples: 60000
+Testing samples: 10000
+Epochs: 20
+Batch size: 512
+Final training loss: 0.0031
+Final training accuracy: 99.91%
+Final test accuracy: 98.91%
+Total running time: 605.2 seconds (10.1 minutes)
